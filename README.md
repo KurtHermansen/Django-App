@@ -4,9 +4,8 @@ Welcome to our Django website that includes a login/signup prompt, contact page,
 
 Our website aims to provide a seamless user experience, with a user-friendly interface and intuitive navigation. Users can easily create an account, log in, and access the website's features, such as the contact and about pages. The contact page allows users to send messages to the website administrator, while the about page provides information about the website and its purpose.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Django Website Demo Video](https://youtu.be/PzsN6X8f1xA)
 
 # Web Pages
 
